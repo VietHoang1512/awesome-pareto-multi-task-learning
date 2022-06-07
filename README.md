@@ -10,6 +10,7 @@ A collection of AWESOME papers on multi-task learning with multiobjective optimi
  - Fast Line Search for Multi-Task Learning [[arxiv 2021](https://arxiv.org/abs/2110.00874)]
  - A Hybrid 2-stage Neural Optimization for Pareto Front Extraction [[arxiv 2021](https://arxiv.org/abs/2101.11684)] [[code](https://openreview.net/attachment?id=UOj0MV__Cr&name=supplementary_material)]
  - Scalable Unidirectional Pareto Optimality for Multi-Task Learning with Constraints [[arxiv 2021](https://arxiv.org/abs/2110.15442)]
+ - Stochastic Multiple Target Sampling Gradient Descent [[arxiv 2022](https://arxiv.org/abs/2206.01934?fbclid=IwAR0DctSaeZhpvgJeYZO1RNCxCy4DR-PSB65qKOFklALv2rCyUw6W2sNAssw)]
 
 ### Conference
  - Multi-Task Learning as Multi-Objective Optimization [[NIPS 2018](https://arxiv.org/pdf/1810.04650.pdf)] [[Pytorch](https://github.com/isl-org/MultiObjectiveOptimization)]
