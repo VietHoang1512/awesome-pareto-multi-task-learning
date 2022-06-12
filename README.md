@@ -4,6 +4,7 @@ A collection of AWESOME papers on multi-task learning with multiobjective optimi
 ## Paper
 ### Preprint
  - Controllable Pareto Multi-Task Learning [[arxiv 2021](https://arxiv.org/pdf/2010.06313.pdf)] [[Pytorch](https://openreview.net/attachment?id=5mhViEOQxaV&name=supplementary_material)]
+ - Follow the bisector: a simple method for multi-objective optimization github [[arxiv 2020](https://arxiv.org/abs/2007.06937)] [[code](https://github.com/amkatrutsa/edm)]
  - Multi-Objective Learning to Predict Pareto Fronts Using Hypervolume Maximization [[arxiv 2021](https://arxiv.org/pdf/2102.04523.pdf)] [[code](https://github.com/timodeist/multi_objective_learning)]
  - Self-Evolutionary Optimization for Pareto Front Learning [[arxiv 2021](https://arxiv.org/pdf/2110.03461.pdf)]
  - Pareto Navigation Gradient Descent: a First-Order Algorithm for Optimization in Pareto Set [[arxiv 2021](https://arxiv.org/pdf/2110.08713)]
@@ -20,5 +21,6 @@ A collection of AWESOME papers on multi-task learning with multiobjective optimi
  - Learning the pareto front with hypernetworks [[ICLR 2021](https://arxiv.org/pdf/2010.04104.pdf)] [[code](https://github.com/AvivNavon/pareto-hypernetworks)]
  - Profiling Pareto Front With Multi-Objective Stein Variational Gradient Descent [[NeurIPS 2021 (Spotlight)](https://proceedings.neurips.cc/paper/2021/file/7bb16972da003e87724f048d76b7e0e1-Paper.pdf)] [[Pytorch](https://github.com/gnobitab/MultiObjectiveSampling)]
  - Scalable Pareto Front Approximation for Deep Multi-Objective Learning [[ICDM 2021](https://128.84.4.13/pdf/2103.13392.pdf)] [[Pytorch](https://github.com/ruchtem/cosmos)]
+ - Learning with Privileged Tasks [ICV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Song_Learning_With_Privileged_Tasks_ICCV_2021_paper.html)] 
 ### Library
  - [pymoo](https://pymoo.org/)
